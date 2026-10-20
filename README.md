@@ -46,12 +46,10 @@ Uchta sinf muvozanatlangan: har birida 4022 tadan bemor.
 ```python
 import pandas as pd
 
-BAZA = "https://raw.githubusercontent.com/FOYDALANUVCHI/REPO/v1.0/data/"
+BAZA = "https://raw.githubusercontent.com/shohruhsariyev/Mashinaviy_uqitish_data/v1.0/data/"
 uy = pd.read_csv(BAZA + "Uy_baza.csv")
 diabet = pd.read_csv(BAZA + "diabet_kitob.csv")
 ```
-
-(`FOYDALANUVCHI` va `REPO` o‘rniga GitHub nomingiz va repo nomini yozing.)
 
 ## Manba va litsenziya
 
