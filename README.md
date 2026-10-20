@@ -1,10 +1,9 @@
 # Mashinaviy o‘qitishga kirish – darslik uchun ma’lumotlar to‘plamlari
-
-Nazarov F.M., Sariyev Sh.N. «Mashinaviy o‘qitishga kirish» darsligi (Sharof Rashidov nomidagi Samarqand davlat universiteti, 2026) dagi barcha misollar va dasturlar ikkita ma’lumotlar to‘plamiga tayanadi. Har biri ikki formatda berilgan: `.xlsx` (Excel) va `.csv`.
+«Mashinaviy o‘qitishga kirish» darsligi  dagi barcha misollar va dasturlar ikkita ma’lumotlar to‘plamiga tayanadi. Har biri ikki formatda berilgan: `.xlsx` (Excel) va `.csv`.
 
 | Fayl | Mazmuni | Qatorlar | Masalalar |
 |---|---|---|---|
-| `data/Uy_baza.csv` / `.xlsx` | Toshkent shahridagi kvartiralar sotuvi e’lonlari | 7278 (takrorlar va bo‘sh qiymatlar olib tashlangach 6132) | regressiya, segmentlash, anomaliyalarni aniqlash |
+| `data/Uy_baza.csv` / `.xlsx` | Toshkent shahridagi kvartiralar sotuvi e’lonlari | 7278 | regressiya, segmentlash, anomaliyalarni aniqlash |
 | `data/diabet_kitob.csv` / `.xlsx` | Qandli diabet belgilari va tashxis | 12 066 | klassifikatsiya, klasterlash, optimallashtirish, giperparametrlarni sozlash |
 
 ## Uy_baza – ustunlar
